@@ -1,1 +1,1 @@
-## Hello I am an autistic computer person, I am just trying desperately to get by in this world 😀
+## Hello I am an autistic computer person, I am just trying desparately to get by in this world 😀
