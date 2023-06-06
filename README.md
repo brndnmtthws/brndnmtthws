@@ -4,9 +4,15 @@ I've been building open source software for quite some time, and here you'll fin
 
 ## Code Like a Pro in Rust
 
-I have a new book on Rust, which is now available on MEAP:
+My first Rust programming book is available for purchase now:
 
 [![DOTD_NewMEAP_Matthews](https://user-images.githubusercontent.com/3129093/135321233-bb6ebafb-0fea-4689-9aa2-f539f06eda79.png)](http://mng.bz/69Dp)
+
+## Rust Design Patterns
+
+My second Rust programming book is also available for purchase now:
+
+[![DOTD_NewMEAP_Matthews](https://freecontent.manning.com/wp-content/uploads/DOTD_NewMEAP_Matthews2.png))](http://mng.bz/pPDR)
 
 ## Business inquiries
 
