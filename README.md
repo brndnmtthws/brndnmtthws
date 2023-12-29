@@ -12,7 +12,7 @@ My first Rust programming book is available for purchase now:
 
 My second Rust programming book is also available for purchase now:
 
-[![DOTD_NewMEAP_Matthews](https://freecontent.manning.com/wp-content/uploads/DOTD_NewMEAP_Matthews2.png))](http://mng.bz/pPDR)
+[![DOTD_NewMEAP_Matthews](https://github.com/brndnmtthws/brndnmtthws/assets/3129093/99a58739-9158-4770-82a4-8b952fd2a2d7)](http://mng.bz/pPDR)
 
 ## Business inquiries
 
