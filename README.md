@@ -6,7 +6,7 @@ I've been building open source software for quite some time, and here you'll fin
 
 My first Rust programming book, [Code Like a Pro in Rust](http://mng.bz/69Dp), is available for purchase from Manning.
 
-[<img src="https://github.com/brndnmtthws/brndnmtthws/assets/3129093/c61fc67c-6dd7-499f-810d-657ee2046676" width="500" />](http://mng.bz/69Dp)
+[![Code Like a Pro in Rust](https://github.com/brndnmtthws/brndnmtthws/assets/3129093/404ac9cd-e0ea-4dfe-b347-683cabf9690e)](http://mng.bz/69Dp)
 
 ## Rust Design Patterns
 
