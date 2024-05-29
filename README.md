@@ -8,9 +8,9 @@ My first Rust programming book, [Code Like a Pro in Rust](http://mng.bz/69Dp), i
 
 [<img src="https://github.com/brndnmtthws/brndnmtthws/assets/3129093/3686164d-1752-47b1-9ec9-5a49f309825f" width="500" />](http://mng.bz/69Dp)
 
-## Rust Design Patterns
+## Rust Advanced Techniques
 
-My second Rust programming book, [Rust Design Patterns](http://mng.bz/pPDR), is also available for purchase from Manning's early access program:
+My second Rust programming book, [Rust Advanced Techniques](http://mng.bz/pPDR), is also available for purchase from Manning's early access program:
 
 [![DOTD_NewMEAP_Matthews](https://github.com/brndnmtthws/brndnmtthws/assets/3129093/99a58739-9158-4770-82a4-8b952fd2a2d7)](http://mng.bz/pPDR)
 
