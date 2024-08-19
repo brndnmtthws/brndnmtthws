@@ -4,15 +4,15 @@ I've been building open source software for quite some time, and here you'll fin
 
 ## Code Like a Pro in Rust
 
-My first Rust programming book, [Code Like a Pro in Rust](http://mng.bz/69Dp), is available for purchase from Manning.
+My first Rust programming book, [Code Like a Pro in Rust](http://mng.bz/69Dp), is available for purchase from Manning, Amazon, and most booksellers.
 
 [<img src="https://github.com/brndnmtthws/brndnmtthws/assets/3129093/3686164d-1752-47b1-9ec9-5a49f309825f" width="450" />](http://mng.bz/69Dp)
 
-## Rust Advanced Techniques
+## Idiomatic Rust
 
-My second Rust programming book, [Rust Advanced Techniques](http://mng.bz/pPDR), is also available for purchase from Manning's early access program:
+My second Rust programming book, [Idiomatic Rust](http://mng.bz/pPDR), is available for purchase from Manning, Amazon, and most booksellers.
 
-[<img src="https://github.com/brndnmtthws/brndnmtthws/assets/3129093/a6457a79-035d-4464-974f-c9394de10483" width="450" />](http://mng.bz/pPDR)
+[<img src="https://github.com/user-attachments/assets/a9b4549e-f4b5-4a1d-b936-60e78ebcead5" width="450" />](http://mng.bz/pPDR)
 
 ## Business inquiries
 
