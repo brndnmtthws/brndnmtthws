@@ -1,3 +1,7 @@
+## I'm looking for a job
+
+I'm actively looking for a new job. If you know anyone who's looking to hire a software engineer, engineering manager, or some related role, please reach out to me via email (which you can find on my GitHub profile). Thanks! 🙏💖
+
 ## Code Like a Pro in Rust
 
 My first Rust programming book, [Code Like a Pro in Rust](http://mng.bz/69Dp), is available for purchase from Manning, Amazon, and most booksellers.
