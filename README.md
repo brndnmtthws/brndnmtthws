@@ -1,3 +1,7 @@
+## About me
+
+I'm a software engineer, entrepreneur, artist, and dog lover.
+
 ## Code Like a Pro in Rust
 
 My first Rust programming book, [Code Like a Pro in Rust](http://mng.bz/69Dp), is available for purchase from Manning, Amazon, and most booksellers.
